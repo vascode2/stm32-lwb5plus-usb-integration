@@ -1,13 +1,3 @@
----
-layout: page
-title: "Integrating LWB5+ USB dongle onto STM32H747I-DISCO"
-category: Integrating LWB5+ USB dongle onto STM32H747I-DISCO
-order: 1
-technology: wifi
-product: Sterling-LWB5+ USB
-status: publish
----
-
 # Introduction
 
 This guide provides information about two applications. The first application involves scanning Wi-Fi networks using the LWB5+ USB dongle and then outputting the results to UART. The second application is focused on displaying the scanned Wi-Fi results on an LCD attached to the STM32H747I-DISCO board. It's important to note that the second app builds upon the first one, and some modifications will be necessary to ensure its proper functioning.
